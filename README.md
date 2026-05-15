@@ -165,4 +165,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Aruna L** — Built with ❤️ using Kotlin + Firebase
+**Aruna L** 
+Built with ❤️ using Kotlin + Firebase
